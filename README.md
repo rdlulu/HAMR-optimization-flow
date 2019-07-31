@@ -18,7 +18,8 @@ Heat Assisted Magnetic Recording (HAMR) optimization flow demo
  10. Data-rate capability measurement
  11. performance repeatability check
  12. Unload head, resistance/noise check
- Control parameters:
+
+Control parameters:
  1. Geometrics: NFT width, NFT height, NFT/MW distance, MW width,...
  2. Optical: Laser power, laser coupling efficiency
  3. Magnetic: write current, write overshoot current, write overshoot duration
